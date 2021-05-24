@@ -1,0 +1,8 @@
+def sudoku_solutions(A)
+  # A being a blank sudoku matrix with zeros for empty spaces. must be 9 by 9 matrix.
+  
+  # check input matrix
+  choices = initialize_choices(A)
+  B = [index for index,value in 
+  startcount = len(
+  
